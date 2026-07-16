@@ -6,14 +6,14 @@ I build practical AI applications that turn business workflows into useful, expl
 
 Based in Atlanta, Georgia.
 
-[![Live Product](https://img.shields.io/badge/Live_Product-Vibe_Security_Check-b9ff5a?style=for-the-badge&labelColor=07130e)](https://vibe-security-check.vinuhi5.chatgpt.site/)
+[![Live Product](https://img.shields.io/badge/Live_Product-Vibe_Security_Check-b9ff5a?style=for-the-badge&labelColor=07130e)](https://vibe-security-check.pages.dev/)
 [![Portfolio Repositories](https://img.shields.io/badge/Portfolio-4_AI_Projects-176044?style=for-the-badge&labelColor=07130e)](https://github.com/ganjikrishna?tab=repositories)
 
 ## Featured AI solutions
 
 | Project | Business problem | What it demonstrates |
 |---|---|---|
-| [Vibe Security Check](https://github.com/ganjikrishna/vibe-security-check) | Rapidly built websites can ship with overlooked security controls. | A [live defensive security preflight](https://vibe-security-check.vinuhi5.chatgpt.site/) with explainable findings, prioritized fixes, safe scanning boundaries, and downloadable reports. |
+| [Vibe Security Check](https://github.com/ganjikrishna/vibe-security-check) | Rapidly built websites can ship with overlooked security controls. | A [live defensive security preflight](https://vibe-security-check.pages.dev/) with explainable findings, prioritized fixes, safe scanning boundaries, and downloadable reports. |
 | [Revenue Signal Copilot](https://github.com/ganjikrishna/revenue-signal-copilot) | Revenue teams need a consistent way to interpret CRM signals and prioritize follow-up. | Explainable lead scoring, account briefs, next-best actions, editable outreach, synthetic CRM workflows, and optional AI enhancement. |
 | [Campaign Content QA](https://github.com/ganjikrishna/campaign-content-qa) | Marketing teams lose time to repetitive brand and compliance reviews. | Configurable campaign checks, evidence-based findings, publish recommendations, and conservative rewrite suggestions. |
 | [Invoice Operations Assistant](https://github.com/ganjikrishna/invoice-ops-assistant) | Finance teams spend time locating incomplete, overdue, and inconsistent invoices. | Exception detection, priority scoring, resolution recommendations, editable reminders, and human approval boundaries. |
@@ -64,4 +64,4 @@ Measurable operational outcome
 
 ## Explore the work
 
-Each featured repository includes business context, architecture, setup instructions, synthetic demo data, safety boundaries, and tests. Start with [Vibe Security Check](https://vibe-security-check.vinuhi5.chatgpt.site/) to try a live product, then review the repositories to see how the solutions are structured.
+Each featured repository includes business context, architecture, setup instructions, synthetic demo data, safety boundaries, and tests. Start with [Vibe Security Check](https://vibe-security-check.pages.dev/) to try a live product, then review the repositories to see how the solutions are structured.
