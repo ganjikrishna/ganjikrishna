@@ -58,7 +58,7 @@ Measurable operational outcome
 ![CRM](https://img.shields.io/badge/CRM_Integration-0B5CAB?style=flat-square&logo=salesforce&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-`Python` · `JavaScript` · `REST APIs` · `JSON` · `OpenAI API` · `Claude` · `Gemini` · `Salesforce` · `HubSpot` · `GitHub Actions` · `HTML/CSS`
+`Python` · `JavaScript` · `REST APIs` · `JSON` · `OpenAI API` · `Claude` · `Gemini` · `Salesforce` · `HubSpot` · `GitHub Actions` · `HTML/CSS` · Qiskit · Quantum Computing
 
 ## Current focus
 
