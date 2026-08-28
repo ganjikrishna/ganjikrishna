@@ -22,6 +22,12 @@ Based in Atlanta, Georgia.
 
 I have also contributed to production business tools, including [Marcom](https://marcom.co/) and an invoicing workflow built with Replit. Proprietary implementation details and customer data are intentionally not published. The public repositories above use synthetic data to demonstrate the same product thinking safely.
 
+## Other technical projects
+
+| Project | Business problem | What it demonstrates |
+|---|---|---|
+| [QRNG API](https://github.com/ganjikrishna/qrng-api) | Software randomness usually comes from pseudo-random generators, not a truly non-deterministic source. | A FastAPI service producing randomness from real quantum measurement (Qiskit), switchable between a local simulator and live IBM Quantum hardware, with safety caps on real-hardware usage. |
+
 ## How I build
 
 ```text
