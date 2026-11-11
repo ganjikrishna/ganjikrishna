@@ -6,9 +6,9 @@ Information Technology Manager at Marcom Company, a media and marketing startup,
 
 I run IT and put AI to work in production (Claude, ChatGPT, Gemini). My CRM depth is Siebel, Salesforce, and HubSpot. In public I build small, practical tools for marketing operations and CRM workflows, and I write up what they do and where they fall short.
 
-## Current project: Fraction Compressor
+## Selected projects
 
-[Fraction Compressor](https://github.com/ganjikrishna/fraction-compressor-v0.4) compresses the difference between a base model and its fine-tune into a small patch file that runs on top of the base, at about 0.31 bits per weight. One base model can then carry many behaviors as small files that swap live in about a tenth of a second. It recovers part of the fine-tune, not all of it, and the repo reports its limits as plainly as its wins. Built during the Meta Global AI Developer Hackathon, October to November 2026. The earlier version is at [fraction-compressor](https://github.com/ganjikrishna/fraction-compressor).
+[Fraction Compressor](https://github.com/ganjikrishna/fraction-compressor-v0.4) compresses the difference between a base model and its fine-tune into a small patch file that runs on top of the base, at about 0.31 bits per weight. One base model can then carry many behaviors as small files that swap live in about a tenth of a second. It recovers part of the fine-tune, not all of it, and the repo reports its limits as plainly as its wins. Built for the Meta Global AI Developer Hackathon, October to November 2026. That work is complete. The earlier version is at [fraction-compressor](https://github.com/ganjikrishna/fraction-compressor).
 
 ## Where I am heading
 
